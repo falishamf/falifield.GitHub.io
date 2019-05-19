@@ -1,6 +1,6 @@
 ## Welcome to Fali Field's website 
 
->This website is created to showcase her GIS Portfolio.
+>This website was created to showcase her GIS Portfolio.
 >
 >For further information, please connect with her via LinkedIn: http://www.linkedin.com/falifield
 >
